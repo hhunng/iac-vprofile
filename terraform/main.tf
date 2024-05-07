@@ -13,8 +13,4 @@ locals {
   cluster_name = var.clusterName
 }
 
-<<<<<<< HEAD
-######
-=======
-###
->>>>>>> stage
+####
